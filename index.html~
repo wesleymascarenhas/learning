@@ -2,14 +2,22 @@
 <html lang="en">
 <head>
  <meta charset="UTF-8">
- <title>Cursos da Alura</title>
+ <title>Cursos de DevOps da Alura</title>
 </head>
 <body>
- <ul>
-  <li>Vagrant</li>
-  <li>Docker</li> 
-  <li>Ansible</li> 
-  <li>Integração Contínua - modificação</li> 
- </ul>
+ <h1>Cursos de DevOps</h1>
+ <dl>
+  <dt>Vagrant</dt>
+  <dd>Gerenciando mauinas virtuais</dd>
+
+  <dt>Docker</dt>
+  <dd>Criando containers sem dor de cabeça</dd>
+
+  <dt>Ansible</dt>
+  <dd>Sua infraestrutura como código</dd>
+
+  <dt>Kubernetes</dt>
+  <dd>Introdução a orquestração de containers</dd>
+ </dl>
 </body>
 </html>
