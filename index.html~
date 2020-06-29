@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
  <meta charset="UTF-8">
- <title>Cursos de DevOps da Alura</title>
+ <title>Cursos da Alura</title>
 </head>
 <body>
  <ul>
   <li>Vagrant</li>
-  <li>Docker - Bla bla bla</li> 
+  <li>Docker</li> 
   <li>Ansible</li> 
   <li>Integração Contínua - modificação</li> 
  </ul>
